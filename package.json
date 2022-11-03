@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "React Odev_1",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mustafa_Oruc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
 }
